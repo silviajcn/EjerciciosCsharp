@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\bin\Debug\net6.0\prac_ciclo_for.exe
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\bin\Debug\net6.0\prac_ciclo_for.deps.json
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\bin\Debug\net6.0\prac_ciclo_for.runtimeconfig.json
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\bin\Debug\net6.0\prac_ciclo_for.dll
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\bin\Debug\net6.0\prac_ciclo_for.pdb
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\prac_ciclo_for.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\prac_ciclo_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\prac_ciclo_for.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\prac_ciclo_for.AssemblyInfo.cs
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\prac_ciclo_for.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\prac_ciclo_for.dll
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\refint\prac_ciclo_for.dll
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\prac_ciclo_for.pdb
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\prac_ciclo_for.genruntimeconfig.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_ciclo_for\obj\Debug\net6.0\ref\prac_ciclo_for.dll

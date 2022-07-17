@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\bin\Debug\net6.0\prac_listas.exe
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\bin\Debug\net6.0\prac_listas.deps.json
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\bin\Debug\net6.0\prac_listas.runtimeconfig.json
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\bin\Debug\net6.0\prac_listas.dll
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\bin\Debug\net6.0\prac_listas.pdb
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\prac_listas.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\prac_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\prac_listas.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\prac_listas.AssemblyInfo.cs
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\prac_listas.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\prac_listas.dll
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\refint\prac_listas.dll
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\prac_listas.pdb
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\prac_listas.genruntimeconfig.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_listas\obj\Debug\net6.0\ref\prac_listas.dll

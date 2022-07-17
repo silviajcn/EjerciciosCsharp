@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\bin\Debug\net6.0\prac_switch.exe
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\bin\Debug\net6.0\prac_switch.deps.json
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\bin\Debug\net6.0\prac_switch.runtimeconfig.json
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\bin\Debug\net6.0\prac_switch.dll
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\bin\Debug\net6.0\prac_switch.pdb
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\prac_switch.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\prac_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\prac_switch.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\prac_switch.AssemblyInfo.cs
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\prac_switch.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\prac_switch.dll
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\refint\prac_switch.dll
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\prac_switch.pdb
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\prac_switch.genruntimeconfig.cache
+C:\Users\Acer\Desktop\PRACTICAS\C#\projects\prac_switch\obj\Debug\net6.0\ref\prac_switch.dll
