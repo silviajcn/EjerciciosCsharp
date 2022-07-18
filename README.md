@@ -1,20 +1,23 @@
-# 🌎 Ejercicios de C#
+# 🌎 C# exercises
 
 ## 📁 Project:
 
-Temas:
+Topics:
 
-* 
+* Fundamentals
+* DataTypes and Variables
+* Loops
+* Functions and Methods
+* Arrays
 
-Practicas:
+Practices:
 
-* Imprimir tablas de multiplicar
-
+* Print multiplication tables
 
 ## 💼 Prerequisites
 
-* Visual Studio Code
-* SDK de .NET
+* Visual Studio Code [Install VSC](https://code.visualstudio.com/)
+* .NET SDKs [Install .NET SDKs](https://dotnet.microsoft.com/en-us/download)
 
 ## ⚙️ Installing
 
@@ -27,12 +30,11 @@ Practicas:
 
 ## 🎈 Usage
 
-* 
-You must have the console open to see the program run
+* You must have the console open to see the program run
 
 ## 😎 Author
 
 * **Silvia C. Navarro**  - [@silviajcn](https://github.com/silviajcn)
-* **Mi portafolio** - [Mi portafolio](https://silviajcn.vercel.app/)
+* **My portfolio** - [My portfolio](https://silviajcn.vercel.app/)
 
     [![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
